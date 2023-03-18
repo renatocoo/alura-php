@@ -13,7 +13,7 @@ echo PHP_EOL;
 if (str_ends_with($url, '.br')) {
     echo 'É um domínio do Brasil';
 } else {
-    echo 'É não um domínio do Brasil';
+    echo 'Não é um domínio do Brasil';
 }
 
 echo PHP_EOL;
