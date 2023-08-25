@@ -1,6 +1,6 @@
 <?php
 
-$url = 'http://alura.com.br/';
+$url = 'https://alura.com.br/';
 
 if (str_starts_with($url, 'https')) {
     echo 'É uma URL segura';
